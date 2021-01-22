@@ -4,7 +4,7 @@
 ---
 How to use it
 
-```
+```shell
 go build main.go
 ./main https://golang.org
-```shell
+```
